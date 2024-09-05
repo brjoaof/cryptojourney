@@ -4,9 +4,9 @@
 
 ## Descrição
 
-Bem-vindo ao _CryptoJourney_! Este repositório é dedicado ao estudo e implementação de conceitos criptográficos, abordando desde fundamentos teóricos até aplicações práticas em código. O objetivo é construir um entendimento sólido dos princípios da criptografia.
+Bem-vindo ao **_CryptoJourney!_** Este repositório é dedicado ao estudo e à implementação de conceitos criptográficos, abordando desde fundamentos teóricos até aplicações práticas em código. O objetivo é construir um entendimento sólido dos princípios da criptografia.
 
-Para aprofundar seus estudos consulte as [referências!!!](referencias.md)
+Para aprofundar seus estudos, consulte as [referências.](referencias.md)
 
 ## Linguagens Utilizadas
 
@@ -17,7 +17,7 @@ Para aprofundar seus estudos consulte as [referências!!!](referencias.md)
 A estrutura do repositório é organizada de acordo com os temas e algoritmos criptográficos explorados. Cada pasta conterá:
 
 - **Teoria**: Explicações teóricas.
-- **Implementação**: Código fonte implementando os conceitos discutidos (_quando existir_).
+- **Implementação**: Código fonte em **Java** e **Python** implementando os conceitos discutidos (_quando existir_).
 
 ## Como Contribuir
 
