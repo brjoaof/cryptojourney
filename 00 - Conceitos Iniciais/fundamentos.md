@@ -53,7 +53,7 @@ Quando queremos transmitir uma mensagem com segurança utilizando criptografia, 
 
 <br>
 
-<div style="display: flex; flex-direction:column; align-items: center; gap:1rem">
+<div style="display:block;text-align:center">
 <img src="../graphics/encryption-decryption.svg" alt="diagrama básico do processo de criptografia e descriptografia" style="max-width: 80%; height: 100px">
 <p style="font-size: 12px;">Criptografia e Descriptografia</p>
 </div>
