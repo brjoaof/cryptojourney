@@ -19,6 +19,10 @@ A estrutura do repositório é organizada de acordo com os temas e algoritmos cr
 - **Teoria**: Explicações teóricas.
 - **Implementação**: Código fonte em **Java** e **Python** implementando os conceitos discutidos (_quando existir_).
 
+## Conteúdos
+
+- [00 - Comece por Aqui!](./00-Conceitos-Iniciais/readme.md)
+
 ## Como Contribuir
 
 Se você tem interesse em criptografia e deseja contribuir, sinta-se à vontade para abrir issues ou enviar pull requests. Toda contribuição é bem-vinda, seja para melhorar as implementações, adicionar novos conceitos ou sugerir melhorias.
