@@ -53,6 +53,8 @@ A área que engloba tanto a criptografia quanto a criptoanálise é chamada de *
 > [!NOTE]
 > Pode parecer que criptoanálise é um assunto para comunidades de inteligência ou então para organizações criminosas, mas ela é o único meio de garantir que um criptosistema seja realmente seguro. Existem muitos pesquisadores sérios dedicados ao tema, devido à relevância do assunto.
 
+<br>
+
 <div align="center">
   <img src="../graphics/cryptology.svg" alt="diagrama áreas da criptologia" style="height: 200px">
   <p style="font-size: 12px">Áreas da Criptologia</p>
@@ -87,7 +89,7 @@ Quando queremos transmitir uma mensagem com segurança utilizando criptografia, 
 
 **Cifras** também são conhecidas como algoritmos criptográficos. São funções matemáticas que realizam a criptografia e a descriptografia de uma mensagem.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Pode parecer contraintuitivo à primeira vista, mas cifras públicas são mais seguras do que cifras proprietárias, pois seguem as padronizações vigentes, são muito mais analisadas e testadas. Cifras restritas são conhecidas por sua baixa segurança e nunca devem ser utilizadas.
 
 ## Algoritmos e Chaves
